@@ -1,0 +1,7 @@
+# Ignore class files
+*.class
+# Ignore compiled output directory
+/bin/
+.classpath
+.project
+.settings/
